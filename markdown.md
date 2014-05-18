@@ -3,6 +3,6 @@
 
 
 
-*First element of a list
-*Second element of a list.
-*Third element of a list.
+* First element of a list
+* Second element of a list.
+* Third element of a list.
